@@ -118,6 +118,22 @@ SOURCE=.\c3_4.c
 # End Source File
 # Begin Source File
 
+SOURCE=.\c3_5.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c3_6.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c4_2.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c4_5.c
+# End Source File
+# Begin Source File
+
 SOURCE=.\main.c
 # End Source File
 # End Target
