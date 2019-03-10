@@ -138,6 +138,22 @@ SOURCE=.\c4_5.c
 # End Source File
 # Begin Source File
 
+SOURCE=.\c5_2.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c5_4.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c5_5.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c5_7.c
+# End Source File
+# Begin Source File
+
 SOURCE=.\main.c
 # End Source File
 # End Target
