@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <string.h>
 #include <stdlib.h>
 long power(int,int);
 long factorial_No_recursive(int);
@@ -10,6 +9,6 @@ int main()
 {
 	//Ö÷³ÌÐò
 
-	c5_7();
+	c6_6();
 
 }

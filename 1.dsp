@@ -154,6 +154,18 @@ SOURCE=.\c5_7.c
 # End Source File
 # Begin Source File
 
+SOURCE=.\c6_5.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c6_6.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c6_7.c
+# End Source File
+# Begin Source File
+
 SOURCE=.\main.c
 # End Source File
 # End Target

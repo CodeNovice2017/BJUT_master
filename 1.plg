@@ -6,13 +6,13 @@
 --------------------Configuration: 1 - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP386.tmp" with contents
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP1E16.tmp" with contents
 [
 /nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"C:\Users\Administrator\Documents\C Proggramming\c5_7.c"
+"C:\Users\Administrator\Documents\C Proggramming\c6_6.c"
 ]
-Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP386.tmp" 
-Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP387.tmp" with contents
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP1E16.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP1E17.tmp" with contents
 [
 kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/1.pdb" /debug /machine:I386 /out:"Debug/1.exe" /pdbtype:sept 
 ".\Debug\c1_6.obj"
@@ -30,18 +30,23 @@ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32
 ".\Debug\c4_2.obj"
 ".\Debug\c4_5.obj"
 ".\Debug\c5_2.obj"
-".\Debug\main.obj"
 ".\Debug\c5_4.obj"
 ".\Debug\c5_5.obj"
 ".\Debug\c5_7.obj"
+".\Debug\c6_5.obj"
+".\Debug\c6_6.obj"
+".\Debug\main.obj"
 ]
-Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP387.tmp"
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP1E17.tmp"
 <h3>Output Window</h3>
 Compiling...
-c5_7.c
-C:\Users\Administrator\Documents\C Proggramming\c5_7.c(8) : warning C4013: 'print' undefined; assuming extern returning int
-C:\Users\Administrator\Documents\C Proggramming\c5_7.c(34) : warning C4013: 'printf' undefined; assuming extern returning int
-C:\Users\Administrator\Documents\C Proggramming\c5_7.c(40) : warning C4716: 'print' : must return a value
+c6_6.c
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(41) : warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(47) : warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(73) : warning C4013: 'puts' undefined; assuming extern returning int
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(75) : warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(27) : warning C4716: 'strcpy1' : must return a value
+C:\Users\Administrator\Documents\C Proggramming\c6_6.c(77) : warning C4716: 'c6_6' : must return a value
 Linking...
 
 
