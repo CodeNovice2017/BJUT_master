@@ -154,6 +154,10 @@ SOURCE=.\c5_7.c
 # End Source File
 # Begin Source File
 
+SOURCE=.\c6_12.c
+# End Source File
+# Begin Source File
+
 SOURCE=.\c6_5.c
 # End Source File
 # Begin Source File
@@ -163,6 +167,10 @@ SOURCE=.\c6_6.c
 # Begin Source File
 
 SOURCE=.\c6_7.c
+# End Source File
+# Begin Source File
+
+SOURCE=.\c6_9.c
 # End Source File
 # Begin Source File
 
